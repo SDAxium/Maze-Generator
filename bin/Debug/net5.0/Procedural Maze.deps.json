@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Procedural Maze/1.0.0": {
+        "runtime": {
+          "Procedural Maze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Procedural Maze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -293,7 +293,8 @@ namespace Procedural_Maze
             // foreach(var item in _rows){Console.WriteLine(item);}
             // Console.WriteLine("COLUMNS");
             // foreach(var item in _columns){Console.WriteLine(item);}
-            // _orientationVertical = !_orientationVertical; // make the next line the opposite orientation
+            
+            _orientationVertical = !_orientationVertical; // make the next line the opposite orientation
             MakeMaze(mazeArray);
             
             return mazeArray;
